@@ -20,11 +20,12 @@ El Valle del Cauca es una zona de alta producción agrícola, pero la cadena de 
 
 ## Integrantes del Equipo
 
-| Nombre | Rol |
-|--------|-----|
-| _(completar)_ | _(completar)_ |
-| _(completar)_ | _(completar)_ |
-| _(completar)_ | _(completar)_ |
+| Nombre                           | Rol           |
+| -------------------------------- | ------------- |
+| Esteban Díaz Salcedo             | Desarrollador |
+| Jhor Sebastián Maturana González | Desarrollador |
+| César Andrés Mosquera Mina       | Desarrollador |
+| Mateo Castro Pedroza             | Desarrollador |
 
 ## Stack Tecnológico
 
