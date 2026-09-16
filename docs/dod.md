@@ -19,5 +19,5 @@ Una Historia de Usuario se considera **"Done"** únicamente cuando se cumplen to
 | Nombre               | Firma / usuario GitHub | Fecha         |
 | -------------------- | ---------------------- | ------------- |
 | Mateo Castro Pedroza | Mateo / valkardraymo   | 16/09/2026    |
-| _(completar)_        | _(completar)_          | _(completar)_ |
+| Sebastian Maturana   |Jhor/SebastianMaturana  | 16/09/2026    |
 | _(completar)_        | _(completar)_          | _(completar)_ |
