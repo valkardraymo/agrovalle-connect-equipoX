@@ -20,4 +20,4 @@ Una Historia de Usuario se considera **"Done"** únicamente cuando se cumplen to
 | -------------------- | ---------------------- | ------------- |
 | Mateo Castro Pedroza | Mateo / valkardraymo   | 16/09/2026    |
 | Sebastian Maturana   |Jhor/SebastianMaturana  | 16/09/2026    |
-| _(completar)_        | _(completar)_          | _(completar)_ |
+| Cesar Mosquera       |Cesar/CesarMosquera     | 16/09/2026    |
